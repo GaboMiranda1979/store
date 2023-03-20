@@ -1,4 +1,4 @@
-![Alt text](https://i.ytimg.com/vi/i-oYrcNtc2s/hqdefault.jpg "dominicode")
+
 
 # Curso de Angular 12
 
